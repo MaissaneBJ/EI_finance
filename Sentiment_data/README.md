@@ -1,6 +1,6 @@
 'sentiment_data_collecting.ipynb' : this notebook is used to collect data from the gnews using the titles in the first dataset.
 
-'classification_models_for_sentiment.ipynb' :  This notebook is used to test different classification models. Random Forest model is the one with the higher accuracy
+'classification_models_for_sentiment.ipynb' :  This notebook is used to test different classification models. Random Forest model is the one with the higher accuracy after FinBERT
 
 'Internet_data_classification.ipynb' : This notebook is used to classify the data collected from the internet (data collected for 2008/2009/2010/2011. For each day, an article's title is cited) using random forest classifier.
 
